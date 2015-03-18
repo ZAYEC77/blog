@@ -1,7 +1,7 @@
 # Blog
 
-###jQuery UI Tabs 
-Ефект гортання досягається за допомогою просто використання callback-у `beforeActivate`:
+###Привабливий ефект гортання для jQuqery UI Tabs
+Ефект гортання досягається за допомогою простого використання callback-а `beforeActivate`:
 
 ```js
 jQuery('#registration-wizard').tabs({
